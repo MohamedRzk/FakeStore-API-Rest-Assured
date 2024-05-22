@@ -1,0 +1,15 @@
+<suite name="first suite">
+    <test name="first test cases">
+        <classes>
+            <class name="login.UserLogIn" />
+
+            <class name="user.GetAllUsers" />
+            <class name="user.GetSingleUser" />
+            <class name="user.LimitUsers" />
+            <class name="user.SortUsers" />
+            <class name="user.AddNewUser" />
+            <class name="user.EditUser" />
+            <class name="user.DeleteUser" />
+        </classes>
+    </test>
+</suite>

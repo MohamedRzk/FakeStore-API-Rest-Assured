@@ -1,0 +1,21 @@
+{
+  "address": {
+    "geolocation": {
+      "lat": "38.32587",
+      "long": "95.1496"
+    },
+    "city": "Alexandria",
+    "street": "toson housing",
+    "number": 156,
+    "zipcode": "365-9635"
+  },
+  "email": "m7mdezk@gmail.com",
+  "username": "m7mdrzk",
+  "password": "s51251sd$",
+  "name": {
+    "firstname": "mohamed",
+    "lastname": "rezk"
+  },
+  "phone": "01274346757",
+  "__v": 0
+}
