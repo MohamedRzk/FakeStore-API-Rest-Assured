@@ -10,6 +10,8 @@
             <class name="user.AddNewUser" />
             <class name="user.EditUser" />
             <class name="user.DeleteUser" />
+            <class name="Authorization.postAuth" />
+            <class name="Authorization.GetAuth" />
         </classes>
     </test>
 </suite>
